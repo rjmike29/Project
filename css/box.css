@@ -1,0 +1,13 @@
+.box
+{
+	border-style:none;
+	width:220px;
+	padding:10px;
+	margin:10px;
+}
+.box:hover
+{
+	border-style:solid;
+	border-color:blue;
+
+}

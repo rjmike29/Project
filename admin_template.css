@@ -1,0 +1,86 @@
+body
+{
+	background-image: url("images/temp1.jpg");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.container 
+{
+    //text-align: center;
+	min-height:100%;
+}
+
+.center_div 
+{
+  //  border-radius: 25px;
+  //  margin-left: 12%;
+    //width: 75%;
+    //min-height: 100%;
+    background-color: #efefef;
+    //text-align: left;
+}
+
+th.mainmenu_options
+{
+	border-style: hidden;
+	width: 15%;
+	height: 10%;
+	border-collapse: separate;
+	border-spacing: 3%;
+	padding-left:18px;
+}
+
+th.mainmenu_options > button
+{
+	border-style: none;
+	width: 160px;
+	height: 80px;
+	background-color: #efefef;
+}
+
+button:focus
+{
+	outline: 0;
+}
+
+.content_table th,td
+{
+	border:1px solid black;
+	text-align: center;
+}
+input
+{
+	text-align: center;
+}
+input:focus
+{
+	outline: 0;
+}
+.content_table th
+{
+	background-color: #CC66FF;
+}
+
+.content_table tr.alt
+{
+	background-color: #FFCCFF;
+}
+
+.content_table tr
+{
+	background-color: #CCFF99;
+}
+.submit
+{
+	background-color: #0000CC;
+	color: white;
+	height: 40px;
+	width: 120px;
+	border-radius: 25px;
+}
+
+
+
+
+	
